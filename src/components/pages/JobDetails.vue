@@ -196,6 +196,8 @@ export default {
                       </span>
                     </div>
                     <div class="clearfix" />
+                    
+                    
                   </div>
                   <div class="job-description"
                        itemprop="description"
